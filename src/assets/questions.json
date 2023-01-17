@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Is this cool?",
+    "answer": "yea",
+    "difficulty": 10
+  },
+  {
+    "question": "Who created JavaScript",
+    "answer": "Brendan Eich",
+    "difficulty": 2
+  },
+  {
+    "question": "What are object prototypes?",
+    "answer": "A prototype is a blueprint of an object.",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the use of promises in JavaScript?",
+    "answer": "Promises are used to handle asynchronous operations in JavaScript.",
+    "difficulty": 4
+  },
+  {
+    "question": "Explain the this keyword.",
+    "answer": "The “this” keyword refers to the object that the function is a property of.",
+    "difficulty": 8
+  },
+  {
+    "question": "Explain bind()",
+    "answer": "This method returns a new function, where the value of the this keyword will be bound to the owner object, which is provided as a parameter.",
+    "difficulty": 7
+  },
+  {
+    "question": "What is DOM?",
+    "answer": "DOM stands for Document Object Model.",
+    "difficulty": 3
+  },
+  {
+    "question": "What are the non-primitive data types in JavaScript",
+    "answer": "Objects and Arrays",
+    "difficulty": 1
+  }
+]
